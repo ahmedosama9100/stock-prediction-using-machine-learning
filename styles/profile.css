@@ -1,0 +1,46 @@
+body {
+  background-color: #f5f5f5;
+}
+
+@media (min-width:1000px) {
+  .page-content {
+    margin: 0 10%;
+  }
+
+  .navigation-bar {
+    position: relative;
+  }
+
+  #navbarSupportedContent {
+    position: absolute;
+    right: 20px;
+  }
+
+  #navbarSupportedContent input {
+    width: 500px;
+  }
+
+  #navbarSupportedContent button {
+    width: 150px;
+  }
+}
+
+
+.company-image {
+  width: 200px;
+  height: 200px;
+  border-radius: 100%;
+  margin-right: 50px;
+}
+
+.company-name {
+  display: inline-block;
+}
+
+
+.subcribe-btn {
+  position: absolute;
+  right: 20px;
+  width: 150px;
+  margin-top: 10px;
+}
