@@ -10,7 +10,7 @@
     <!-- Favicons -->
     <link rel="icon" href="images/favicon.png" />
     <!-- our custom styles -->
-    <link rel="stylesheet" href="styles/profile.css" />
+    <link rel="stylesheet" href="styles/company-style.css" />
 </head>
 
 <body>
