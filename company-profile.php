@@ -9,7 +9,7 @@
   </div>
 </div>
 
-<div class="stock-graph carousel slide" id="carouselControls" data-ride="false">
+<div class="stock-graph carousel slide" id="carouselControls">
   <div class="carousel-inner carousel-content">
     <div class="carousel-item active">
       <img src="images/stockGraph.jpg" alt="Google Stock Graph" class="stock-graph">
