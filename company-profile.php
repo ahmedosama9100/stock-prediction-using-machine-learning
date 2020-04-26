@@ -1,5 +1,4 @@
 <?php include 'partials/profile-header.php'; ?>
-<?php include 'partials/navigation-bar.php'; ?>
 
 <div class="jumbotron container-fluid">
   <div class="company-intro">
